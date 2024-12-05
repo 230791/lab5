@@ -1,2 +1,2 @@
 # Introduction
-Lab1
+Lab2
